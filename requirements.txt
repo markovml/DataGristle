@@ -1,7 +1,7 @@
 appdirs     == 1.4.4
 cletus      == 1.0.15
 envoy       == 0.0.3
-Flask       == 1.1.2
+Flask       == 2.3.2
 Jinja2      == 2.11.3
 jsonschema  == 3.2.0
 pre-commit  == 2.12.0
